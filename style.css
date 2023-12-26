@@ -295,3 +295,18 @@ h2 {
 .timer {
   font-weight: 600;
 }
+
+.info {
+  position: absolute;
+  font-size: 40px;
+}
+
+.info--1 {
+  bottom: 50%;
+  right: 30%;
+}
+
+.info--2 {
+  bottom: 45%;
+  right: 28%;
+}
